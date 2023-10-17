@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is my maven web app!</h2>
+<h2>Its working... This is my maven web app!</h2>
 </body>
 </html>
